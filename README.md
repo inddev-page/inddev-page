@@ -1,6 +1,6 @@
 ![Header](https://github.com/inddev-page/inddev-page/blob/main/assets/untilted7.png)
 
-## Wassup, I'm a programmer. My goal is a Company. For practice i'll share my works here.
+## Social  |  Ind  | 
 
 ### Languages and tools
 ![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=discord&logoColor=FFFFFF)
