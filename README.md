@@ -1,4 +1,4 @@
-![Header](https://github.com/inddev-page/inddev-page/blob/main/assets/untilted2.png)
+![Header](https://github.com/inddev-page/inddev-page/blob/main/assets/untilted7.png)
 
 ## Wassup, I'm a programmer. My goal is a Company. For practice i'll share my works here.
 
