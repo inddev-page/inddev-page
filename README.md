@@ -1,6 +1,6 @@
 ![Header](https://github.com/inddev-page/inddev-page/blob/main/assets/untilted7.png)
 
-## Social  |  Ind  | 
+## Working for IndCorp
 
 ### Languages and tools
 ![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=discord&logoColor=FFFFFF)
