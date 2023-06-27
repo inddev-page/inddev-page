@@ -1,4 +1,4 @@
-![Header](https://github.com/inddev-page/inddev-page/blob/main/assets/Untitled%20(8).png)
+![Header](https://github.com/inddev-page/inddev-page/blob/main/assets/Untitled%20(1).png)
 
 ## Working for IndCorp
 
